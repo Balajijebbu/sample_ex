@@ -35,7 +35,7 @@ class Counter:
 # Main function to demonstrate the functionality
 def main():
     # Greet the user
-    greet_user("Dhanush")
+    greet_user("Balaji")
 
     # Demonstrating basic calculations
     num1 = 10
